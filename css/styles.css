@@ -1,0 +1,254 @@
+div.container {
+    width: 100%;
+	
+    border: 1px solid gray;
+}
+
+img
+{
+  padding:10px;
+  align: "center";
+}
+
+body {
+padding-top:0px;
+}
+
+footer {
+    padding: 25px;
+    color: green;
+	width:100%;
+    background-color: lightgrey;
+    clear: left;
+    text-align: center;
+}
+
+
+nav {
+   float: left;
+   padding-top:100px;
+   padding: 2em;
+   /*border-right: 4px solid gray; */
+   line-height: 80px; 
+   display: inline-block;
+}
+
+nav span {
+	
+	font-weight: bold;
+	font-size: 20px;
+	float: middle;
+	padding: 2em;
+	text-transform: uppercase;
+}
+
+nav ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+section#all_classifieds
+{
+  width:100%;
+}
+
+span
+{
+  font-weight: bold;
+}
+
+section#autos_content
+{
+  padding-left : 20px;
+  padding-top: 20px;
+}
+
+section1#real_estate1
+{
+  width: 50%;
+  float: left;
+  min-height:   200px;
+
+  border-right: 2px solid gray;
+}
+div#lower_right
+{
+  float: right;
+  padding-left: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line_height: 30px;
+  color: green;
+}
+div#lower_left
+{
+  float: right;
+   background-color: lightgrey;
+    width: auto;
+    height:auto;
+    border: 0px solid green;
+    margin-bottom:10px;
+  
+}
+div#lower_left h3
+{
+  font-weight: bold;
+  font-style: italic;
+    
+}
+div#classified_ad
+{
+  
+  padding-top: 20px;
+  font-size : 20px;
+  text-align : center;
+  font-family: signika;
+  font-style: italic;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+p{
+  font-family:signika;
+  padding-left: 5px;
+}
+
+
+h3#properties
+{
+  padding-left: 20px;
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+}
+
+section2#real_estate2
+{
+  width: 30%;
+  float: left;
+  position: relative;
+  display: inline-block;
+  min-height:200px;
+  padding-left: 5px;
+  line-height: 20px;  
+}
+
+description_text
+{
+  width: 50%;
+  float: left;
+  padding-bottom: 100px;
+}
+image_src
+{
+  width: 50%;
+  float:right;
+}
+
+.customHr {
+    width: 100%
+    font-size: 1px;
+    color: rgba(0, 0, 0, 0);
+    line-height: 2px;
+    
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.article
+{
+	    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+section#real_estate
+{
+  width:100%;
+  padding-top:10px;
+  padding-left:10px;
+  max-height:   500px;
+  
+}
+
+#lower_real_estate
+{
+  
+  padding-left: 20px;
+  padding-top:200px;
+  
+}
+
+section#jobs_content{
+  width:100%;
+}
+   
+nav ul a {
+   
+    font-weight: bold;
+    text-transform: uppercase;
+}
+section#sec_header
+{
+  margin-top: 12px;
+}
+h3.heading_3
+{
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  display:flex;
+  flex-direction:column;
+  font-size: 20px;
+  color: green;
+  padding-left: 20px;
+}
+
+
+.apptitle {
+    font-family: Comic Sans MS, cursive, sans-serif;
+    color: #58585b;
+    font-size: 25px;
+    padding: 0px 0px 0px 500px; 
+    float: left;
+    margin-top:22px;
+}
+
+.appheader {
+    float: left;
+    width: 100%;
+    background-color: lightgrey;
+	/*padding: 1em;*/
+	padding-top: 5px;
+}
+
+.logo {
+    float: left;
+    padding: 5px 10px 10px 5px
+}
+
+
+
+.contgray {
+    font-family: ciscolight;
+    color: #58585b;
+    font-size: 14px;
+}
+
+.userinfo {
+    float: right;
+    padding: 40px 15px 6px 0px;
+    text-align: right;
+}
+
+.hdrbottomborder {
+    width: 100%;
+    height: 4px;
+    background-color: #0b9ed9;
+    clear:both
+}
+
+#footer
+{
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
